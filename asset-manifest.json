@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/task6_frontend/static/css/main.abcc4508.css",
+    "main.js": "/task6_frontend/static/js/main.c9e048ca.js",
+    "static/js/787.696d8a43.chunk.js": "/task6_frontend/static/js/787.696d8a43.chunk.js",
+    "static/media/pexels-marta-branco-1194713.jpg": "/task6_frontend/static/media/pexels-marta-branco-1194713.c383002a2b67f1df77af.jpg",
+    "index.html": "/task6_frontend/index.html",
+    "main.abcc4508.css.map": "/task6_frontend/static/css/main.abcc4508.css.map",
+    "main.c9e048ca.js.map": "/task6_frontend/static/js/main.c9e048ca.js.map",
+    "787.696d8a43.chunk.js.map": "/task6_frontend/static/js/787.696d8a43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abcc4508.css",
+    "static/js/main.c9e048ca.js"
+  ]
+}
